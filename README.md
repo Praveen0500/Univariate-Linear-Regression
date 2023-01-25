@@ -53,8 +53,9 @@ plt.show()
 ```
 ## Output
 
-![](univariet1.png)
-![](univariet2.png)
+
+![image](https://user-images.githubusercontent.com/120218611/214632537-625dc756-3ebd-4269-bec8-1cd19659360a.png)
+
 ![](univariet3.png)
 
 ## Result
